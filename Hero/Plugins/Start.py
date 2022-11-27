@@ -109,16 +109,16 @@ async def useradd(_, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph//file/ba1e2843461ec2233a3c0.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀʟɪsʜᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
+💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀɴɢᴇʟ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴛᴏ ᴘʟᴀʏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ sᴏɴɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴍᴏɴᴅᴏ](https://t.me/Venom_Hain_hum)
-┣★ ᴜᴘᴅᴀᴛᴇs : [ғᴇᴇʟɪɴɢs ʟɪғᴇ](https://t.me/Feeling_Alone_Abhi)
-┣★ sᴜᴘᴘᴏʀᴛ : [ɴᴀᴛɪᴠᴇ sᴜᴘᴘᴏʀᴛ](https://t.me/Alisha_Support)
-┣★ ʀᴏᴄᴋs : [ᴄʜᴀᴛᴛɪɴɢ ʟɪғᴇ](https://t.me/Shayri_music_lovers)
+┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴍᴏɴᴅᴏ](https://t.me/meowlub)
+┣★ ᴜᴘᴅᴀᴛᴇs : [ғᴇᴇʟɪɴɢs ʟɪғᴇ](https://t.me/mondo_lover)
+┣★ sᴜᴘᴘᴏʀᴛ : [ɴᴀᴛɪᴠᴇ sᴜᴘᴘᴏʀᴛ](https://t.me/mondoclub)
+┣★ ʀᴏᴄᴋs : [ᴄʜᴀᴛᴛɪɴɢ ʟɪғᴇ](https://t.me/luckyclub16)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/Venom_Hain_hum) ...
+ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/meowlub) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
         reply_markup=InlineKeyboardMarkup(
             [
